@@ -57,7 +57,7 @@ Quizzes, Q&A, and communication: **Discord** (An invitation will be sent to the 
 | 4  | Sep 18 | **Neural Rendering 1** | Sep 20 | **Neural Rendering 2** |
 | 5  | Sep 25 | **Hybrid Representations** | Sep 27 | **Few-Shot/Zero-Shot 3D Generation** |
 | 6  | Oct 02 | No Class (Conference Trip)  | Oct 04 | No Class (Conference Trip) |
-| 7  | Oct 09 | No Class (Hangul Day) | Oct 11 | **Guest Lecture 1:<br>[Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/){:target="_blank"}<br>Professor at UCL** |
+| 7  | Oct 09 | No Class (Hangul Day) | Oct 11 | **Guest Lecture 1<br>[Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/){:target="_blank"}<br>Professor at UCL** |
 | 8  | Oct 16 | No Class (Midterm Week) | Oct 18 | No Class (Midterm Week) |
 | 9  | Oct 23 | **Project Pitches 1** | Oct 25 | **Project Pitches 2** |
 | 10 | Oct 30 | **Introduction to Diffusion Models 1** | Nov 01 | **Introduction to Diffusion Models 2** |
