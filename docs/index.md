@@ -59,11 +59,11 @@ Quizzes, Q&A, and communication: **Discord** (An invitation will be sent to the 
 | 6  | Oct 02 | No Class (Conference Trip)  | Oct 04 | No Class (Conference Trip) |
 | 7  | Oct 09 | No Class (Hangul Day) | Oct 11 | **Guest Lecture 1<br>[Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/){:target="_blank"}<br>Professor at UCL** |
 | 8  | Oct 16 | No Class (Midterm Week) | Oct 18 | No Class (Midterm Week) |
-| 9  | Oct 23 | **Project Pitches 1** | Oct 25 | **Project Pitches 2** |
-| 10 | Oct 30 | **Introduction to Diffusion Models 1** | Nov 01 | **Introduction to Diffusion Models 2** |
+| 9  | Oct 23 | **Project Pitches** | Oct 25 | **Introduction to Diffusion Models 1** |
+| 10 | Oct 30 | **Introduction to Diffusion Models 2** | Nov 01 | **3D Generative Models** |
 | 11 | Nov 06 | No Class (Break) | Nov 08 | No Class (Break) |
-| 12 | Nov 13 | **3D Generative Models**  | Nov 15 | **Detection/Segmentation** |
-| 13 | Nov 20 | **Guest Lecture 2** | Nov 22 | **Unsupervised Decomposition** |
+| 12 | Nov 13 | **Detection/Segmentation** | Nov 15 | **Unsupervised Decomposition** |
+| 13 | Nov 20 | **Guest Lecture 2** | Nov 22 | **SE(3) Invariant/Equivariant Networks** |
 | 14 | Nov 27 | **Course Summary** | Nov 29 | No Class (Undergraduate Admission Interviews) |
 | 15 | Dec 04 | **Poster Presentations 1** | Dec 06 | **Poster Presentations 2** |
 | 16 | Dec 11 | No Class (Final Week) | Dec 13 | No Class (Final Week) |
