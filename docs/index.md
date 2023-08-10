@@ -35,7 +35,7 @@ Quizzes, Q&A, and communication: **Discord** (An invitation will be sent to the 
 
 
 ## Past Years
-- [CS492(A): Machine Learning for 3D Data (Spring 2022)](https://mhsung.github.io/courses/kaist-cs492a-spring-2022/){:target="_blank"}
+- [CS492(A): Machine Learning for 3D Data (Spring 2022)](https://mhsung.github.io/kaist-cs492a-spring-2022/){:target="_blank"}
 - [CS492(H): Machine Learning for 3D Data (Spring 2021)](https://mhsung.github.io/courses/kaist-cs492h-spring-2021/){:target="_blank"}
 
 
