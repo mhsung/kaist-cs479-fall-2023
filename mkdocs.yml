@@ -4,6 +4,9 @@ theme:
   name: material
   icon:
     logo: material/cube-outline
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
 
 extra:
   analytics:
@@ -31,8 +34,17 @@ plugins:
 extra:
   links:
 
-
 copyright: Copyright &copy; 2023 Minhyuk Sung
 
 nav:
   - Home: index.md
+  - Project:
+    - Project Team Matching: project-team-matching.md
+    - Project Proposal: project-proposal.md
+    - Project Track: project-track.md
+    - Project Mockup: project-mockup.md
+    - Project Pitch Video: project-pitch-video.md
+
+extra:
+  links:
+    paper_list: https://docs.google.com/spreadsheets/d/1i-C6Ao4mrXnVqj0AKnTfS0AB6hd8SpEuB3JI1JZgKbI/edit?usp=sharing

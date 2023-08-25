@@ -10,7 +10,9 @@
 
 ## Time & Location
 **Time**: Mon/Wed 10:30am - 11:45am (KST)   
-**Location**: Hybrid   
+**Location**: Online via Zoom
+
+[Zoom Link](https://kaist.zoom.us/j/85920030773){:target="_blank" .md-button}
 
 
 ## Description
@@ -24,14 +26,16 @@ This course is intended for undergraduate/master students who have a basic backg
 ## Course Staff
 **Instructor**: [Minhyuk Sung](https://mhsung.github.io/){:target="_blank"} ([mhsung@kaist.ac.kr](mailto:mhsung@kaist.ac.kr))
 
-- Office hours: By appointment (See #announcements channel in Discord.)
+**Course Assistants:**
 
-**Course Assistant** :  TBD
+- Juil Koo ([63days@kaist.ac.kr](mailto:63days@kaist.ac.kr))
+- Hyunjin Kim ([rlaguswls98@kaist.ac.kr](mailto:rlaguswls98@kaist.ac.kr))
+- Kunho Kim ([kaist984@kaist.ac.kr](mailto:kaist984@kaist.ac.kr))
+- Jaihoon Kim ([jh27kim@kaist.ac.kr](mailto:jh27kim@kaist.ac.kr))
+- Seungwoo Yoo ([dreamy1534@kaist.ac.kr](mailto:dreamy1534@kaist.ac.kr))
+- Yuseung Lee ([phillip0701@kaist.ac.kr](mailto:phillip0701@kaist.ac.kr))
 
-
-## Links
-Zoom links, recordings, and slides: **KLMS**   
-Quizzes, Q&A, and communication: **Discord** (An invitation will be sent to the registered students by email.)  
+**Office hours (Offline)**: Wed 7:00pm (KST). N1 Rm 601.
 
 
 ## Past Years
@@ -40,10 +44,36 @@ Quizzes, Q&A, and communication: **Discord** (An invitation will be sent to the 
 
 
 ## Grading
-- Project: 50%
 - Programming Assignments: 30%
+- Project: 50%
 - Paper Reviews: 10%
 - In-Class Participation: 10%
+
+
+## Important Dates
+ALL ASSIGNMENTS ARE DUE 23:59 KST. NO LATE DAYS!
+(Subject to Change)
+
+- Project Sign-Up: ==Due Sep 8 (Fri)==
+- 1st Programming Assignment: ==Due Sep 17 (Sun)==
+- Project Proposal: ==Due Sep 24 (Sun)==
+- 2nd Programming Assignment: ==Due Oct 1 (Sun)==
+- Project Mockup: ==Due Oct 8 (Sun)==
+- 3rd Programming Assignment: ==Due Oct 15 (Sun)==
+- Project Pitch Video: ==Due Oct 20 (Fri)==
+- Paper Review Questions: ==Due Oct 29 (Sun)==
+- Project Interim Report 1: ==Due Nov 5 (Sun)==
+- Paper Review Questions: ==Due Nov 12 (Sun)==
+- Project Interim Report 2: ==Due Nov 19 (Sun)==
+- Project Poster: ==Due Nov 29 (Wed)==
+- Project Report/Code: ==Dec 3 (Sun)==
+- Paper Review Answers: ==Due Dec 8 (Fri)==
+- Project Review: ==Due Dec 8 (Fri)==
+- Project Rebuttal: ==Due Dec 13 (Wed)==
+
+
+## Paper List
+[Paper List Link]({{links.paper_list}}){:target="_blank" .md-button}
 
 
 ## Schedule
@@ -55,15 +85,15 @@ Quizzes, Q&A, and communication: **Discord** (An invitation will be sent to the 
 | 2  | Sep 04 | **3D Representations 2** | Sep 06 | **Point Cloud Processing** |
 | 3  | Sep 11 | **Point Generations** | Sep 13 | **Implicit Representations** |
 | 4  | Sep 18 | **Neural Rendering 1** | Sep 20 | **Neural Rendering 2** |
-| 5  | Sep 25 | **Hybrid Representations** | Sep 27 | **Few-Shot/Zero-Shot 3D Generation** |
-| 6  | Oct 02 | No Class (Conference Trip)  | Oct 04 | No Class (Conference Trip) |
-| 7  | Oct 09 | No Class (Hangul Day) | Oct 11 | **Guest Lecture 1<br>[Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/){:target="_blank"}<br>Professor at UCL** |
+| 5  | Sep 25 | **Introduction to Diffusion Models 1** | Sep 27 | **Introduction to Diffusion Models 2** |
+| 6  | Oct 02 | No Class (Substitute Holiday)  | Oct 04 | No Class (Conference Trip) |
+| 7  | Oct 09 | No Class (Hangul Day) | Oct 11 | **Guest Lecture 1<br>[Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/){:target="_blank"}<br>Professor at UCL<br>(Offline)** |
 | 8  | Oct 16 | No Class (Midterm Week) | Oct 18 | No Class (Midterm Week) |
-| 9  | Oct 23 | **Project Pitches** | Oct 25 | **Introduction to Diffusion Models 1** |
-| 10 | Oct 30 | **Introduction to Diffusion Models 2** | Nov 01 | **3D Generative Models** |
+| 9  | Oct 23 | **Project Pitches** | Oct 25 | **Hybrid Representations** |
+| 10 | Oct 30 | **Few-Shot/Zero-Shot 3D Generation** | Nov 01 | **3D Generative Models** |
 | 11 | Nov 06 | No Class (Break) | Nov 08 | No Class (Break) |
 | 12 | Nov 13 | **Detection/Segmentation** | Nov 15 | **Unsupervised Decomposition** |
-| 13 | Nov 20 | **Guest Lecture 2** | Nov 22 | **SE(3) Invariant/Equivariant Networks** |
+| 13 | Nov 20 | **Guest Lecture 2<br>[Jun Gao](https://www.cs.toronto.edu/~jungao/){:target="_blank"}<br>Research Scientist at NVIDIA Toronto AI Lab<br>(Online)** | Nov 22 | **SE(3) Invariant/Equivariant Networks** |
 | 14 | Nov 27 | **Course Summary** | Nov 29 | No Class (Undergraduate Admission Interviews) |
 | 15 | Dec 04 | **Poster Presentations 1** | Dec 06 | **Poster Presentations 2** |
 | 16 | Dec 11 | No Class (Final Week) | Dec 13 | No Class (Final Week) |

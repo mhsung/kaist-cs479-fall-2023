@@ -24,7 +24,7 @@
 
 .md-typeset ul,
 .md-typeset ol {
-  line-height: 1.25;
+  line-height: 100%;
 }
 
 .md-typeset mark {
@@ -41,5 +41,3 @@
 .md-typeset table:not([align]) {
   font-size: 90%;
 }
-
-.md-footer__inner { display: none }
