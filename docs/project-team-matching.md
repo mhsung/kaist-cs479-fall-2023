@@ -7,7 +7,7 @@
 
 ## Project Team Matching
 
-^^Submission Deadline^^: ==September 8 (Friday), 23:59 KST==  
+^^Due^^: ==September 8 (Friday), 23:59 KST==  
 ^^What to submit^^: ==The project title, project keywords, and teammate names==  
 ^^Where to submit^^: ==OpenReview==  
 

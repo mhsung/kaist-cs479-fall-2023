@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # CS479: Machine Learning for 3D Data
 
 <h3><b>
@@ -48,6 +53,12 @@ This course is intended for undergraduate/master students who have a basic backg
 - Project: 50%
 - Paper Reviews: 10%
 - In-Class Participation: 10%
+
+
+
+## AI Coding Assistant Tools
+
+**You are allowed (and even encouraged) to utilize AI coding assistant tools**, such as ChatGPT, Copilot, Codex, and Code Intelligence, for your programming assignments and projects. Utilizing AI coding assistant tools will not be deemed as plagiarism. However, it is still strictly prohibited to directly copy code from the internet or from someone else. Doing so will lead to a score of zero and a report to the university.
 
 
 ## Important Dates

@@ -7,7 +7,7 @@
 
 ## Project Proposal
 
-^^Submission Deadline^^: ==September 24 (Sunday), 23:59 KST==  
+^^Due^^: ==September 24 (Sunday), 23:59 KST==  
 ^^What to submit^^: ==A write-up (up to three A4 pages; shorter is preferred). No template provided.==  
 ^^Where to submit^^: ==OpenReview==  
 
