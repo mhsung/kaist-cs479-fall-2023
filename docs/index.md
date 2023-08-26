@@ -57,12 +57,11 @@ This course is intended for undergraduate/master students who have a basic backg
 
 
 ## AI Coding Assistant Tool Policy
-
 **You are allowed (and even encouraged) to utilize AI coding assistant tools**, such as ChatGPT, Copilot, Codex, and Code Intelligence, for your programming assignments and projects. Utilizing AI coding assistant tools will not be deemed as plagiarism. However, it is still strictly prohibited to directly copy code from the Internet or from someone else. Doing so will lead to a score of zero and a report to the university.
 
 
 ## Important Dates
-ALL ASSIGNMENTS ARE DUE 23:59 KST. NO LATE DAYS!
+ALL ASSIGNMENTS ARE DUE 23:59 KST.
 (Subject to Change)
 
 - Project Sign-Up: ==Due Sep 8 (Fri)==

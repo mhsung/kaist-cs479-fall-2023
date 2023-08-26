@@ -89,13 +89,13 @@ With the experiment setup defined, outline success criteria both qualitatively a
 
 
 ### Computing Resource
-We will provide GPUs in KCloud, and each team will have the option to choose either 2 or 3 GPUs with 24GB VRAM each (RTX 3090 or Titan X), or one A100 GPU. By default, you will receive the 24GB VRAM GPUs. A100 GPUs will be allocated to teams that require GPUs with larger VRAM.
+We plan to provide GPUs in [KCLOUD](https://kcloud.kaist.ac.kr/){:target="_blank"}, and each team will have the option to choose either two GPUs with 24 GB VRAM each (RTX 3090 or Titan X), or one A100 GPU. By default, you will receive the 24 GB VRAM GPUs. A100 GPUs will be allocated to teams that require GPUs with larger VRAM.
 
 It is crucial to propose a project idea that is achievable within the provided computational resources. For example, certain baseline methods might require multiple A100 GPUs and/or several days or weeks for training, which would not be feasible for your project.
 
 
 ### Grading
-- **Late submission**: A 5% penalty for each late day in the project evaluation.
+- **Late submission**: A 5% penalty for **each** late day in the project evaluation.
 - A submission with no meaningful information will be regarded as not submitted.
 
 <br />
