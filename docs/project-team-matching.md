@@ -12,7 +12,7 @@
 ^^Where to submit^^: ==OpenReview==  
 
 ###Maximum number of teammates
-You are allowed to form a team with a **maximum of three people**. All teams will be assessed in the same way, regardless of how many people are in the team. It is hence recommended to have three people in the team.
+You are allowed to form a team with a **maximum of three people**. All teams will be assessed in the same way, regardless of how many people are in the team. It is hence recommended to have three people in the team. All members of a project team will receive the same grade for the project, unless under extraordinary circumstances.
 
 ###Course withdrawal
 If you withdraw from the course after the team-building deadline, your team will lose one teammate. So, please consider this schedule if you decide to drop the course.

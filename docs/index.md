@@ -40,7 +40,7 @@ This course is intended for undergraduate/master students who have a basic backg
 - Seungwoo Yoo ([dreamy1534@kaist.ac.kr](mailto:dreamy1534@kaist.ac.kr))
 - Yuseung Lee ([phillip0701@kaist.ac.kr](mailto:phillip0701@kaist.ac.kr))
 
-**Office hours (Offline)**: Wed 7:00pm (KST). N1 Rm 601.
+**Office hours (Offline)**: Mon 7:00pm (KST). N1 Rm 601.
 
 
 ## Past Years
@@ -51,14 +51,14 @@ This course is intended for undergraduate/master students who have a basic backg
 ## Grading
 - Programming Assignments: 30%
 - Project: 50%
-- Paper Reviews: 10%
+- Paper/Project Reviews: 10%
 - In-Class Participation: 10%
 
 
 
-## AI Coding Assistant Tools
+## AI Coding Assistant Tool Policy
 
-**You are allowed (and even encouraged) to utilize AI coding assistant tools**, such as ChatGPT, Copilot, Codex, and Code Intelligence, for your programming assignments and projects. Utilizing AI coding assistant tools will not be deemed as plagiarism. However, it is still strictly prohibited to directly copy code from the internet or from someone else. Doing so will lead to a score of zero and a report to the university.
+**You are allowed (and even encouraged) to utilize AI coding assistant tools**, such as ChatGPT, Copilot, Codex, and Code Intelligence, for your programming assignments and projects. Utilizing AI coding assistant tools will not be deemed as plagiarism. However, it is still strictly prohibited to directly copy code from the Internet or from someone else. Doing so will lead to a score of zero and a report to the university.
 
 
 ## Important Dates
@@ -77,8 +77,8 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST. NO LATE DAYS!
 - Paper Review Questions: ==Due Nov 12 (Sun)==
 - Project Interim Report 2: ==Due Nov 19 (Sun)==
 - Project Poster: ==Due Nov 29 (Wed)==
-- Project Report/Code: ==Dec 3 (Sun)==
-- Paper Review Answers: ==Due Dec 8 (Fri)==
+- Project Report/Code: ==Due Dec 3 (Sun)==
+- Paper Review Answers: ==Due Due Dec 8 (Fri)==
 - Project Review: ==Due Dec 8 (Fri)==
 - Project Rebuttal: ==Due Dec 13 (Wed)==
 
@@ -96,7 +96,7 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST. NO LATE DAYS!
 | 2  | Sep 04 | **3D Representations 2** | Sep 06 | **Point Cloud Processing** |
 | 3  | Sep 11 | **Point Generations** | Sep 13 | **Implicit Representations** |
 | 4  | Sep 18 | **Neural Rendering 1** | Sep 20 | **Neural Rendering 2** |
-| 5  | Sep 25 | **Introduction to Diffusion Models 1** | Sep 27 | **Introduction to Diffusion Models 2** |
+| 5  | Sep 25 | **Diffusion Models 1** | Sep 27 | **Diffusion Models 2** |
 | 6  | Oct 02 | No Class (Substitute Holiday)  | Oct 04 | No Class (Conference Trip) |
 | 7  | Oct 09 | No Class (Hangul Day) | Oct 11 | **Guest Lecture 1<br>[Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/){:target="_blank"}<br>Professor at UCL<br>(Offline)** |
 | 8  | Oct 16 | No Class (Midterm Week) | Oct 18 | No Class (Midterm Week) |

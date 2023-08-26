@@ -5,7 +5,7 @@
 </b></h3>
 
 
-## Project Track
+## Project Tracks
 
 You can choose either of the following two project tracks:
 
