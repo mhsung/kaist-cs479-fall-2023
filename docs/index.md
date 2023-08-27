@@ -91,7 +91,7 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 
 | Week | Mon | Topic | Wed | Topic |
 | :----: | :----: | :----: | :----: | :----: |
-| 1  | Aug 28 | **Course Introduction** | Aug 30 | **3D Representations 1** |
+| 1  | Aug 28 | **Course Introduction**<br>[**Slides**]({{links.lec01}}){:target="_blank"} | Aug 30 | **3D Representations 1** |
 | 2  | Sep 04 | **3D Representations 2** | Sep 06 | **Point Cloud Processing** |
 | 3  | Sep 11 | **Point Generations** | Sep 13 | **Implicit Representations** |
 | 4  | Sep 18 | **Neural Rendering 1** | Sep 20 | **Neural Rendering 2** |
