@@ -94,8 +94,8 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 1  | Aug 28 | **Course Introduction**<br>[**Slides**]({{links.lec01}}){:target="_blank"}<br>[**Recording**]({{links.rec01}}){:target="_blank"} | Aug 30 | **3D Representations 1**<br>[**Slides**]({{links.lec02}}){:target="_blank"}<br>[**Recording**]({{links.rec02}}){:target="_blank"} |
 | 2  | Sep 04 | **3D Representations 2**<br>[**Slides**]({{links.lec03}}){:target="_blank"}<br>[**Recording**]({{links.rec03}}){:target="_blank"} | Sep 06 | **3D Representations 3**<br>[**Slides**]({{links.lec04}}){:target="_blank"}<br>[**Recording**]({{links.rec04}}){:target="_blank"} |
 | 3  | Sep 11 | **Point Cloud Encoders**<br>[**Slides**]({{links.lec05}}){:target="_blank"}<br>[**Recording**]({{links.rec05}}){:target="_blank"} | Sep 13 | **Point Cloud Generation**<br>[**Slides**]({{links.lec06}}){:target="_blank"}<br>[**Recording**]({{links.rec06}}){:target="_blank"} |
-| 4  | Sep 18 | **Implicit Neural Representations**<br>[**Slides**]({{links.lec07}}){:target="_blank"}<br>[**Recording**]({{links.rec07}}){:target="_blank"} | Sep 20 | **Neural Rendering 1** |
-| 5  | Sep 25 | **Neural Rendering 2** | Sep 27 | **Diffusion Models** |
+| 4  | Sep 18 | **Implicit Neural Representations**<br>[**Slides**]({{links.lec07}}){:target="_blank"}<br>[**Recording**]({{links.rec07}}){:target="_blank"} | Sep 20 | **Structure from Motion**<br>[**Slides**]({{links.lec08}}){:target="_blank"} |
+| 5  | Sep 25 | **Neural Rendering* | Sep 27 | **Diffusion Models** |
 | 6  | Oct 02 | No Class (Substitute Holiday)  | Oct 04 | No Class (Conference Trip) |
 | 7  | Oct 09 | No Class (Hangul Day) | Oct 11 | **Guest Lecture 1<br>[Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/){:target="_blank"}<br>Professor at UCL<br>(Offline)** |
 | 8  | Oct 16 | No Class (Midterm Week) | Oct 18 | No Class (Midterm Week) |
