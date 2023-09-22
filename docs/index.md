@@ -94,16 +94,16 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 1  | Aug 28 | **Course Introduction**<br>[**Slides**]({{links.lec01}}){:target="_blank"}<br>[**Recording**]({{links.rec01}}){:target="_blank"} | Aug 30 | **3D Representations 1**<br>[**Slides**]({{links.lec02}}){:target="_blank"}<br>[**Recording**]({{links.rec02}}){:target="_blank"} |
 | 2  | Sep 04 | **3D Representations 2**<br>[**Slides**]({{links.lec03}}){:target="_blank"}<br>[**Recording**]({{links.rec03}}){:target="_blank"} | Sep 06 | **3D Representations 3**<br>[**Slides**]({{links.lec04}}){:target="_blank"}<br>[**Recording**]({{links.rec04}}){:target="_blank"} |
 | 3  | Sep 11 | **Point Cloud Encoders**<br>[**Slides**]({{links.lec05}}){:target="_blank"}<br>[**Recording**]({{links.rec05}}){:target="_blank"} | Sep 13 | **Point Cloud Generation**<br>[**Slides**]({{links.lec06}}){:target="_blank"}<br>[**Recording**]({{links.rec06}}){:target="_blank"} |
-| 4  | Sep 18 | **Implicit Neural Representations**<br>[**Slides**]({{links.lec07}}){:target="_blank"}<br>[**Recording**]({{links.rec07}}){:target="_blank"} | Sep 20 | **Structure from Motion**<br>[**Slides**]({{links.lec08}}){:target="_blank"} |
-| 5  | Sep 25 | **Neural Rendering* | Sep 27 | **Diffusion Models** |
+| 4  | Sep 18 | **Implicit Neural Representations**<br>[**Slides**]({{links.lec07}}){:target="_blank"}<br>[**Recording**]({{links.rec07}}){:target="_blank"} | Sep 20 | **Structure from Motion**<br>[**Slides**]({{links.lec08}}){:target="_blank"}<br>[**Recording**]({{links.rec08}}){:target="_blank"} |
+| 5  | Sep 25 | **Neural Rendering 1** | Sep 27 | **Neural Rendering 2** |
 | 6  | Oct 02 | No Class (Substitute Holiday)  | Oct 04 | No Class (Conference Trip) |
 | 7  | Oct 09 | No Class (Hangul Day) | Oct 11 | **Guest Lecture 1<br>[Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/){:target="_blank"}<br>Professor at UCL<br>(Offline)** |
 | 8  | Oct 16 | No Class (Midterm Week) | Oct 18 | No Class (Midterm Week) |
 | 9  | Oct 23 | **Project Pitches** | Oct 25 | **Hybrid Representations** |
-| 10 | Oct 30 | **Few-Shot/Zero-Shot 3D Generation** | Nov 01 | **3D Generative Models** |
+| 10 | Oct 30 | **Diffusion Models 1** | Nov 01 | **Diffusion Models 2** |
 | 11 | Nov 06 | No Class (Break) | Nov 08 | No Class (Break) |
-| 12 | Nov 13 | **Detection/Segmentation** | Nov 15 | **Unsupervised Decomposition** |
-| 13 | Nov 20 | **Guest Lecture 2<br>[Jun Gao](https://www.cs.toronto.edu/~jungao/){:target="_blank"}<br>Research Scientist at NVIDIA Toronto AI Lab<br>(Online)** | Nov 22 | **SE(3) Invariant/Equivariant Networks** |
+| 12 | Nov 13 | **3D Generative Models** | Nov 15 | **Detection/Segmentation** |
+| 13 | Nov 20 | **Guest Lecture 2<br>[Jun Gao](https://www.cs.toronto.edu/~jungao/){:target="_blank"}<br>Research Scientist at NVIDIA Toronto AI Lab<br>(Online)** | Nov 22 | **Unsupervised Decomposition** |
 | 14 | Nov 27 | **Course Summary** | Nov 29 | No Class (Undergraduate Admission Interviews) |
 | 15 | Dec 04 | **Poster Presentations 1** | Dec 06 | **Poster Presentations 2** |
 | 16 | Dec 11 | No Class (Final Week) | Dec 13 | No Class (Final Week) |
