@@ -13,6 +13,11 @@
 
 For each team, submit a write-up including the following:
 
+- Project title
+- Project track
+- Submission ID (assigned by OpenReview)
+- All teammate names
+- The link to the GitHub repository for your project.
 - Baseline inspection
     - **Qualitative** examples of the results obtained from the **baseline method**.
     - **Quantitative** results of the baseline method when **performed by your team**.
