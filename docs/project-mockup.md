@@ -7,7 +7,7 @@
 
 ## Project Mockup
 
-^^Due^^: ==October 8 (Sunday), 23:59 KST==  
+^^Due^^: ==October 9 (Monday), 23:59 KST==  
 ^^What to submit^^: ==A write-up (up to three A4 pages; shorter is preferred). No template provided. GitHub repository link.==  
 ^^Where to submit^^: ==OpenReview==  
 

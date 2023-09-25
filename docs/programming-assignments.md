@@ -13,8 +13,8 @@ hide:
 ## Programming Assignments
 
 ^^Assignment 1 Due^^: September 17 (Sunday), 23:59 KST  
-^^Assignment 2 Due^^: October 1 (Sunday), 23:59 KST  
-^^Assignment 3 Due^^: October 15 (Sunday), 23:59 KST  
+^^Assignment 2 Due^^: October 9 (Monday), 23:59 KST  
+^^Assignment 3 Due^^: November 12 (Sunday), 23:59 KST  
 ^^Where to submit^^: Gradescope
 
 ### Assignment Links
