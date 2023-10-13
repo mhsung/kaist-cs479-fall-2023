@@ -18,7 +18,20 @@ Create a project pitch video with **voice-over**. The video must have the follow
 - **Resolution**: ==1920x1080==
 - **Voice-over**. In the project pitch video session, your video will be just played, and you won't be able to speak over the video.
 
+
+### Project Pitch Video of the Past Years
+
+[Spring 2022](https://kaistackr-my.sharepoint.com/:v:/g/personal/mhsung_kaist_ac_kr/EQY3CkWSXFtGttEbY3RJ4kkBk099z3zFxNtiN56IgoewzQ?e=l1K2LZ){:target="_blank", .md-button } 
+
+[Spring 2021](https://kaistackr-my.sharepoint.com/:v:/g/personal/mhsung_kaist_ac_kr/EbQh0EeFJItAm3dP7UvGrlABZ0RzGNBP1L0OiHgre27DSA?e=gCQkRd){:target="_blank", .md-button } 
+
+
 ### Title Slide
+
+[Title Slide Template](https://kaistackr-my.sharepoint.com/:p:/g/personal/mhsung_kaist_ac_kr/EVlvRTJbv2tPjsY7Th-mnMsBsgd0MScZZQzawQTzOBnwfQ?e=H1OyzN){:target="_blank", .md-button }
+
+(Click "File" > "Save As" > "Download a Copy".)
+
 - Begin your video with a title slide.
 - Download the template and fill in your project information, including the project title, project track, team ID, and teammate names.
 - Display the title slide for at least 5 seconds at the beginning (you can start your narration from the title slide).
