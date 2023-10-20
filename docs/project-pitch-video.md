@@ -56,7 +56,7 @@ Include the followings in your video:
 
 ### Grading
 - **Late submission**: A 10% penalty for each late day in the project evaluation. (No late days allowed.)
-- **Wrong format**: A 5% penalty for each late day in the project evaluation. Wrong formats include:
+- **Wrong format**: A 5% penalty for each case below in the project evaluation. Wrong formats include:
     - Incorrect video file format
     - Inaccurate video resolution
     - Absence of narration
