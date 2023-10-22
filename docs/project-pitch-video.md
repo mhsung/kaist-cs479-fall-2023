@@ -7,6 +7,10 @@
 
 ## Project Pitch Video
 
+[Compilation](https://youtu.be/gW9MiQJSfzg){:target="_blank", .md-button }
+<br>
+<br>
+
 ^^Due^^: ==October 20 (Friday), 23:59 KST==  
 ^^What to submit^^: ==A video. See below for the details.==  
 ^^Where to submit^^: ==OpenReview==  
