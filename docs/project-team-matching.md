@@ -22,6 +22,6 @@ Submit your project details on **OpenReview**, including the project title, proj
 
 ###Grading
 - **Late submission**: A 5% penalty for each late day in the project evaluation.
-- A submission with no meaningful information will be regarded as not submitted.
+- A submission with any missing items will be considered as not submitted.
 
 <br />

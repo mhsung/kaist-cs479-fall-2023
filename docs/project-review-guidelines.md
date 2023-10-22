@@ -19,7 +19,8 @@
 
 - You will be asked to review *two* projects, and each project will be reviewed by at least *four* peer reviewers and also *two* TAs.
 - The review will be *single-blind* and will be performed in **OpenReview** (but both the submissions and reviews will NOT be open to the public). 
-- ==Reviews can be **rejected** based on the assessment of the review quality, and rejected reviews will be penalized in the project evaluation &mdash; see [Penalty](#penalty).==
+- ==Reviews can be **rejected** based on the assessment of the review quality, and rejected reviews will be penalized in the paper/project review scores &mdash; see [Penalty](#penalty).==
+- ==You can participate in the reviews after you receive the perfect score from the **paper review quiz**.== Any reviews submitted before attaining this perfect score will NOT be accepted and will be considered as not submitted. Refer to the [paper review](../paper-review){:target="_blank"} page for the details.
 
 
 ### Infeasible Experiments
@@ -145,7 +146,7 @@ Provide questions or comments. Please be constructive, respectful, and detailed 
 
 
 ### Penalty
-- **Unsubmitted or rejected review** (for each): ==20% penalty== in the project evaluation.
-
+- **Late submission**: A 10% penalty for **each** late day and for **each** review in the paper/project review scores.
+- ==Note that the reviews can be **rejected** based on the assessment of the review quality. The rejected reviews will be considered as not submitted.==
 
 <br />

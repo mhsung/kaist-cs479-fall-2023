@@ -75,9 +75,9 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 - Paper Review Questions: ==Due Nov 12 (Sun)==
 - 3rd Programming Assignment: ==Due Nov 12 (Sun)==
 - Project Interim Report 2: ==Due Nov 19 (Sun)==
+- Paper Review Answers: ==Due Nov 26 (Sun)==
 - Project Poster: ==Due Nov 29 (Wed)==
 - Project Report/Code: ==Due Dec 3 (Sun)==
-- Paper Review Answers: ==Due Due Dec 8 (Fri)==
 - Project Review: ==Due Dec 8 (Fri)==
 - Project Rebuttal: ==Due Dec 13 (Wed)==
 
