@@ -4,7 +4,6 @@
 <a href="http://mhsung.github.io/" target="_blank">Minhyuk Sung</a>, <a href="https://www.kaist.ac.kr/" target="_blank">KAIST</a>, Fall 2023
 </b></h3>
 
-
 ## Project Interim Report
 
 ^^1st report due^^: ==November 5 (Sunday), 23:59 KST==  
@@ -25,7 +24,6 @@ For each team, submit a write-up including the following:
 - Revised timeline
     - Write an updated timeline for the remaining time.
 
-
 ### Project Progress
 
 Based on the previous timeline (1st interim - the timeline in the proposal, 2nd interim - the timeline in the 1st interim), **color-code** each item in the timeline as follows.
@@ -38,7 +36,6 @@ Based on the previous timeline (1st interim - the timeline in the proposal, 2nd 
 For the cases marked as <mark style="background-color: #C0C0C0">Delayed</mark> or <mark style="background-color: #FF5C5C">Have issues</mark>, provide a brief explanation of the problems and propose solutions.
 
 Keep it concise; avoid creating a lengthy write-up.
-
 
 ### Grading
 - **Late submission**: A 5% penalty for each late day in the project evaluation.
