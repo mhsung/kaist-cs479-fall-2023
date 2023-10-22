@@ -1,7 +1,7 @@
-# CS492(A): Machine Learning for 3D Data
+# CS479: Machine Learning for 3D Data
 
 <h3><b>
-<a href="http://mhsung.github.io/" target="_blank">Minhyuk Sung</a>, <a href="https://www.kaist.ac.kr/" target="_blank">KAIST</a>, Spring 2022
+<a href="http://mhsung.github.io/" target="_blank">Minhyuk Sung</a>, <a href="https://www.kaist.ac.kr/" target="_blank">KAIST</a>, Fall 2023
 </b></h3>
 
 
