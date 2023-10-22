@@ -65,7 +65,7 @@ If you find any suspected plagiarism, please describe it here.
 #### Writing
 - **[+2] Outstanding.** Clearly described motivation, method or implementation details, and experimental results. Very well organized the paper, and very easy to follow the paper. Includes sufficient illustrations for the methods or implementation details, and figures and tables for the experimental results. (Almost) no flaw. 
 - **[+1] Great.**  Well organized the paper, and clearly described most parts. But it is a bit difficult to follow, or there are a few minor flaws.
-- **[ 0] Moderate. **  Some descriptions are not clear to understand. Some details in the method, implementation details, or experimental setup are missing. Technically adequate, but some technical details are incorrect.
+- **[ 0] Moderate.**  Some descriptions are not clear to understand. Some details in the method, implementation details, or experimental setup are missing. Technically adequate, but some technical details are incorrect.
 - **[-1] Needs to be improved.**  Some required sections or important details are missing. Too many flaws and mistakes in the writing. Fatal mistakes in the technical details.
 - **[-2] Poor.**  Did not complete the writing. Most parts are missing.
 
