@@ -37,6 +37,6 @@ Provide a **weekly to-do list** leading up to the project report deadline. Your 
 
 ### Grading
 - **Late submission**: A 5% penalty for each late day in the project evaluation.
-- A submission with no meaningful information will be regarded as not submitted.
+- A submission with any missing items will be considered as not submitted.
 
 <br />
