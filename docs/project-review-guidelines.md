@@ -15,9 +15,6 @@
 [https://openreview.net/group?id=kaist.ac.kr/KAIST/Fall2023/CS479](https://openreview.net/group?id=kaist.ac.kr/KAIST/Fall2023/CS479){:target="_blank"}
 
 
-### ^^This is a tentative plan and is subject to change.^^
-
-
 ### Review Process
 
 - You will be asked to review *two* projects, and each project will be reviewed by at least *four* peer reviewers and also *two* TAs.
@@ -46,6 +43,8 @@ For the experiments considered infeasible, do not take them into account in the 
 
 
 ### Review Questions
+
+#### ^^This is a tentative plan and is subject to change.^^
 
 ==Total score range: [-8 ~ +8]==
 
