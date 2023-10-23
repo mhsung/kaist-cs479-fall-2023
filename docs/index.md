@@ -101,9 +101,9 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 8  | Oct 16 | No Class (Midterm Week) | Oct 18 | No Class (Midterm Week) |
 | 9  | Oct 23 | **Project Pitches** | Oct 25 | **Hybrid Representations** |
 | 10 | Oct 30 | **Diffusion Models 1** | Nov 01 | **Diffusion Models 2** |
-| 11 | Nov 06 | No Class (Break) | Nov 08 | No Class (Break) |
-| 12 | Nov 13 | **3D Generative Models** | Nov 15 | **Detection/Segmentation** |
-| 13 | Nov 20 | **Guest Lecture 2<br>[Jun Gao](https://www.cs.toronto.edu/~jungao/){:target="_blank"}<br>Research Scientist at NVIDIA Toronto AI Lab<br>(Online)** | Nov 22 | **Unsupervised Decomposition** |
+| 12 | Nov 06 | **3D Generative Models** | Nov 08 | **Detection/Segmentation** |
+| 11 | Nov 13 | No Class (Break) | Nov 15 | No Class (Break) |
+| 13 | Nov 20 | **Unsupervised Decomposition** | Nov 22 | **Guest Lecture 2<br>[Jun Gao](https://www.cs.toronto.edu/~jungao/){:target="_blank"}<br>Research Scientist at<br>NVIDIA Toronto AI Lab<br>(Online)** |
 | 14 | Nov 27 | **Course Summary** | Nov 29 | No Class (Undergraduate Admission Interviews) |
 | 15 | Dec 04 | **Poster Presentations 1** | Dec 06 | **Poster Presentations 2** |
 | 16 | Dec 11 | No Class (Final Week) | Dec 13 | No Class (Final Week) |
