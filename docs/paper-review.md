@@ -15,7 +15,7 @@ Your course project will undergo a **peer review** process. Your project submiss
 
 In your role as a reviewer, it is essential to familiarize yourself with the baseline work of the projects you are assigned to review before conducting your assessment.
 
-As a project submitter, you are required to create a **Google Form quiz** containing **three** questions related to the methodology of the baseline work. This quiz is intended to confirm that the reviewers have indeed become acquainted with the baseline work and are prepared to evaluate your project submission.
+As a project submitter, you are required to create a **Google Form quiz** containing **three** questions related to the method of the baseline work. This quiz is intended to confirm that the reviewers have indeed become acquainted with the baseline work and are prepared to evaluate your project submission.
 
 
 ### **Google Form Quiz Creation**
@@ -35,10 +35,12 @@ Refer to the following link to learn how to create a quiz using Google Forms:
 - The questions can be in the format of Multiple Choice, Checkboxes, Dropdown, Multiple Choice Grid, or Checkbox Grid. **DO NOT** use **short-answer** or **paragraph** questions.
 - Include an **answer key** for each question. Set the points for each question to be 1 point.
 - In the "Settings" section, **disable "Correct Answers"** to prevent reviewers from seeing the correct answers after submitting.
+- Your quiz can be rejected based on the assessment of the question quality.
 
 #### Grading
 - **Late submission**: A 10% penalty for **each** late day in the paper/project review scores.
 - A submission violating any of the rules above will be considered as not submitted.
+- Note that the quiz can be rejected based on the assessment of the question quality. The rejected quiz will be considered as not submitted.
 
 
 ### **Quiz Answering**

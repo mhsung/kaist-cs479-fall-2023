@@ -9,8 +9,8 @@
 
 <!-- (Last updated: May 29, 2022. Subject to change.) -->
 
-^^Review Deadline^^: ==December 8 (Fri), 23:59 KST==  
-^^Rebuttal Deadline^^: ==December 13 (Wed), 23:59 KST==  
+^^Review Due^^: ==December 8 (Fri), 23:59 KST==  
+^^Rebuttal Due^^: ==December 13 (Wed), 23:59 KST==  
 ^^Where to submit^^: ==OpenReview==   
 [https://openreview.net/group?id=kaist.ac.kr/KAIST/Fall2023/CS479](https://openreview.net/group?id=kaist.ac.kr/KAIST/Fall2023/CS479){:target="_blank"}
 
@@ -18,7 +18,7 @@
 ### Review Process
 
 - You will be asked to review *two* projects, and each project will be reviewed by at least *four* peer reviewers and also *two* TAs.
-- The review will be *single-blind* and will be performed in **OpenReview** (but both the submissions and reviews will NOT be open to the public). 
+- The review process will be *single-blind* and will be performed in **OpenReview**. You may receive a penalty if you disclose which project you will review.
 - ==Reviews can be **rejected** based on the assessment of the review quality, and rejected reviews will be penalized in the paper/project review scores &mdash; see [Penalty](#penalty).==
 - ==You can participate in the reviews after you receive the perfect score from the **paper review quiz**.== Any reviews submitted before attaining this perfect score will NOT be accepted and will be considered as not submitted. Refer to the [paper review](../paper-review){:target="_blank"} page for the details.
 

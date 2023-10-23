@@ -141,8 +141,7 @@ Please use the **same section names** below to facilitate the review process. Ad
 
 #### Format
 
-- A **single PNG** file (maximum 10MB).
-- Must be in **2560x1280** resolution.
+- A **single PDF** file (maximum 10MB).
 - Poster template: [<b>Link</b>](https://kaistackr-my.sharepoint.com/:p:/g/personal/mhsung_kaist_ac_kr/ET3SXo62ilNKmznhK6KkAgUBhQcsaaJ7UfQfIjgOET_V-g?e=pQG5jB){:target="_blank"} (Design adapted from [Zoya Bylinskii](https://web.mit.edu/zoya/www/docs.html){:target="_blank"})<br>
 Do not need to use this template.
 - Must include **project title**, **project track**, **team member names**, and **acknowledgments**.
