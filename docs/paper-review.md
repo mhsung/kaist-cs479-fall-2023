@@ -49,7 +49,7 @@ Refer to the following link to learn how to create a quiz using Google Forms:
 ^^What to submit^^: A screenshot showing your nickname and perfect score.  
 ^^Where to submit^^: GradeScope  
 
-As a **reviewer**, you are required to complete the quiz provided by the submitters of the project you will review. Find the quiz link on OpenReview. ==You need to attempt the quiz until you achieve a perfect score.== Afterward, submit a screenshot displaying both your **nickname** and the **perfect quiz score** to GradeScope.
+As a **reviewer**, you are required to complete the quiz provided by the submitters of the project you will review. Find the quiz link on OpenReview. ==You need to attempt the quiz until you achieve a perfect score.== Afterward, submit a screenshot displaying both your **nickname** and the **perfect quiz score** to GradeScope. Use the same nickname as the one you submitted before.
 
 ==Note that you can only commence the review process after successfully completing the quiz with a perfect score.== Reviews submitted before attaining this perfect score will NOT be accepted and will be considered as not submitted. This implies that if you do not submit proof of a perfect score, you will not be eligible to participate in the project peer reviews, and you will also incur an additional penalty for not participating in the review process.
 
