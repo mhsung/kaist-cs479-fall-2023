@@ -98,7 +98,7 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 6  | Oct 02 | No Class (Substitute Holiday)  | Oct 04 | No Class (Conference Trip) |
 | 7  | Oct 09 | No Class (Hangul Day) | Oct 10 | **Guest Lecture 1<br>[Niloy J. Mitra](guest-lecture-niloy-mitra/){:target="_blank"}<br>Professor at UCL<br>Oct 10 (Tue) 4:00 pm<br>Offline (E3-1, Rm 1101)** |
 | 8  | Oct 16 | No Class (Midterm Week) | Oct 18 | No Class (Midterm Week) |
-| 9  | Oct 23 | **Project Pitches** | Oct 25 | **Hybrid Representations** |
+| 9  | Oct 23 | **Project Pitches**<br>[**Video Compilation**]({{links.pitch_videos}}){:target="_blank"} | Oct 25 | **Hybrid Representations**<br>[**Slides**]({{links.lec11}}){:target="_blank"} |
 | 10 | Oct 30 | **Diffusion Models 1** | Nov 01 | **Diffusion Models 2** |
 | 12 | Nov 06 | **3D Generative Models** | Nov 08 | **Detection/Segmentation** |
 | 11 | Nov 13 | No Class (Break) | Nov 15 | No Class (Break) |

@@ -7,7 +7,7 @@
 
 ## Project Pitch Video
 
-[Compilation](https://youtu.be/gW9MiQJSfzg){:target="_blank", .md-button }
+[Compilation]({{links.pitch_videos}}){:target="_blank", .md-button }
 <br>
 <br>
 
