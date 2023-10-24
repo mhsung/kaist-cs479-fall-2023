@@ -70,7 +70,6 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 - 2nd Programming Assignment: ==Due Oct 9 (Mon)==
 - Project Mockup: ==Due Oct 9 (Mon)==
 - Project Pitch Video: ==Due Oct 20 (Fri)==
-- Paper Review Questions: ==Due Oct 29 (Sun)==
 - Project Interim Report 1: ==Due Nov 5 (Sun)==
 - Paper Review Questions: ==Due Nov 12 (Sun)==
 - 3rd Programming Assignment: ==Due Nov 12 (Sun)==
