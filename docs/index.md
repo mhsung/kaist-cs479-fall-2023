@@ -96,13 +96,13 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 4  | Sep 18 | **Implicit Neural Representations**<br>[**Slides**]({{links.lec07}}){:target="_blank"}<br>[**Recording**]({{links.rec07}}){:target="_blank"} | Sep 20 | **Structure from Motion 1**<br>[**Slides**]({{links.lec08}}){:target="_blank"}<br>[**Recording**]({{links.rec08}}){:target="_blank"} |
 | 5  | Sep 25 | **Structure from Motion 2 /<br>Neural Rendering 1**<br>[**Slides**]({{links.lec09}}){:target="_blank"}<br>[**Recording**]({{links.rec09}}){:target="_blank"} | Sep 27 | **Neural Rendering 2**<br>[**Recording**]({{links.rec10}}){:target="_blank"} |
 | 6  | Oct 02 | No Class (Substitute Holiday)  | Oct 04 | No Class (Conference Trip) |
-| 7  | Oct 09 | No Class (Hangul Day) | Oct 10 | **Guest Lecture 1<br>[Niloy J. Mitra](guest-lecture-niloy-mitra/){:target="_blank"}<br>Professor at UCL<br>Oct 10 (Tue) 4:00 pm<br>Offline (E3-1, Rm 1101)** |
+| 7  | Oct 09 | No Class (Hangul Day) | Oct 10 | **Guest Lecture 1<br>[Niloy J. Mitra](guest-lecture-niloy-mitra/){:target="_blank"}<br>Professor at UCL<br>Oct 10 (Tue) 4:00 p.m.<br>Offline (E3-1, Rm 1101)** |
 | 8  | Oct 16 | No Class (Midterm Week) | Oct 18 | No Class (Midterm Week) |
 | 9  | Oct 23 | **Project Pitches**<br>[**Video Compilation**]({{links.pitch_videos}}){:target="_blank"} | Oct 25 | **Hybrid Representations 1**<br>[**Slides**]({{links.lec12}}){:target="_blank"}<br>[**Recording**]({{links.rec12}}){:target="_blank"} |
 | 10 | Oct 30 | **Hybrid Representations 2**<br>[**Recording**]({{links.rec13}}){:target="_blank"} | Nov 01 | **Diffusion Models 1**<br>[**Slides**]({{links.lec14}}){:target="_blank"}<br>[**Recording**]({{links.rec14}}){:target="_blank"} |
 | 12 | Nov 06 | **Diffusion Models 2**<br>[**Slides**]({{links.lec15}}){:target="_blank"}<br>[**Recording**]({{links.rec15}}){:target="_blank"} | Nov 08 | **3D Generative Models** |
 | 11 | Nov 13 | No Class (Break) | Nov 15 | No Class (Break) |
-| 13 | Nov 20 | **Detection/Segmentation** | Nov 22 | **Guest Lecture 2<br>[Jun Gao](https://www.cs.toronto.edu/~jungao/){:target="_blank"}<br>Research Scientist at<br>NVIDIA Toronto AI Lab<br>(Online)** |
+| 13 | Nov 20 | **Detection/Segmentation** | Nov 22 | **Guest Lecture 2<br>[Jun Gao](guest-lecture-jun-gao/){:target="_blank"}<br>Research Scientist at<br>NVIDIA Toronto AI Lab<br>Nov 22 (Wed) 10:30 a.m.<br>(Online)** |
 | 14 | Nov 27 | **Unsupervised Decomposition** | Nov 29 | No Class (Undergraduate Admission Interviews) |
 | 15 | Dec 04 | **Poster Presentations 1** | Dec 06 | **Poster Presentations 2** |
 | 16 | Dec 11 | No Class (Final Week) | Dec 13 | No Class (Final Week) |
