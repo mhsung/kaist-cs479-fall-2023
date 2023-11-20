@@ -102,7 +102,7 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 | 10 | Oct 30 | **Hybrid Representations 2**<br>[**Recording**]({{links.rec13}}){:target="_blank"} | Nov 01 | **Diffusion Models 1**<br>[**Slides**]({{links.lec14}}){:target="_blank"}<br>[**Recording**]({{links.rec14}}){:target="_blank"} |
 | 12 | Nov 06 | **Diffusion Models 2**<br>[**Slides**]({{links.lec15}}){:target="_blank"}<br>[**Recording**]({{links.rec15}}){:target="_blank"} | Nov 08 | **Conditional Generation**<br>[**Slides**]({{links.lec16}}){:target="_blank"}<br>[**Recording**]({{links.rec16}}){:target="_blank"} |
 | 11 | Nov 13 | **3D Generation**<br>[**Slides**]({{links.lec17}}){:target="_blank"}<br>[**Recording**]({{links.rec17}}){:target="_blank"} | Nov 15 | No Class (Break) |
-| 13 | Nov 20 | **Detection/Segmentation** | Nov 22 | **Guest Lecture 2<br>[Jun Gao](guest-lecture-jun-gao/){:target="_blank"}<br>Research Scientist at<br>NVIDIA Toronto AI Lab<br>Nov 22 (Wed) 10:30 a.m.<br>Online (Zoom)** |
+| 13 | Nov 20 | **3D Detection/Segmentation**<br>[**Slides**]({{links.lec18}}){:target="_blank"} | Nov 22 | **Guest Lecture 2<br>[Jun Gao](guest-lecture-jun-gao/){:target="_blank"}<br>Research Scientist at<br>NVIDIA Toronto AI Lab<br>Nov 22 (Wed) 10:30 a.m.<br>Online (Zoom)** |
 | 14 | Nov 27 | **Unsupervised Decomposition** | Nov 29 | No Class (Undergraduate Admission Interviews) |
 | 15 | Dec 04 | **Poster Presentations 1** | Dec 06 | **Poster Presentations 2** |
 | 16 | Dec 11 | No Class (Final Week) | Dec 13 | No Class (Final Week) |

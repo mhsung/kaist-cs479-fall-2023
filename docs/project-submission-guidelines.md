@@ -142,7 +142,7 @@ Please use the **same section names** below to facilitate the review process. Ad
 #### Format
 
 - A **single PDF** file (maximum 10MB).
-- Poster template: [<b>Link</b>](https://kaistackr-my.sharepoint.com/:p:/g/personal/mhsung_kaist_ac_kr/ET3SXo62ilNKmznhK6KkAgUBhQcsaaJ7UfQfIjgOET_V-g?e=pQG5jB){:target="_blank"} (Design adapted from [Zoya Bylinskii](https://web.mit.edu/zoya/www/docs.html){:target="_blank"})<br>
+- Poster template: [<b>Link</b>](https://kaistackr-my.sharepoint.com/:p:/g/personal/mhsung_kaist_ac_kr/EaAxelUapjBMrWQ1qcUwsAIBo24eSmN2QvuuN3y0Y3jc7A?e=sl7v4l){:target="_blank"} (Design adapted from [Zoya Bylinskii](https://web.mit.edu/zoya/www/docs.html){:target="_blank"})<br>
 Do not need to use this template.
 - Must include **project title**, **project track**, **team member names**, and **acknowledgments**.
 
