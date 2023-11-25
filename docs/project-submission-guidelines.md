@@ -141,10 +141,12 @@ Please use the **same section names** below to facilitate the review process. Ad
 
 #### Format
 
+[Poster Template]({{links.poster_template}}){:target="_blank" .md-button}
+
 - A **single PDF** file (maximum 10MB).
-- Poster template: [<b>Link</b>](https://kaistackr-my.sharepoint.com/:p:/g/personal/mhsung_kaist_ac_kr/EaAxelUapjBMrWQ1qcUwsAIBo24eSmN2QvuuN3y0Y3jc7A?e=sl7v4l){:target="_blank"} (Design adapted from [Zoya Bylinskii](https://web.mit.edu/zoya/www/docs.html){:target="_blank"})<br>
-Do not need to use this template.
-- Must include **project title**, **project track**, **team member names**, and **acknowledgments**.
+- Use the provided poster template above, which is adapted from [Zoya Bylinskii](https://web.mit.edu/zoya/www/docs.html){:target="_blank"}.
+- Feel free to modify the poster template, but ensure that it includes the **project title**, **project track**, **team member names**, and **acknowledgments**.
+- Note that the poster will be printed in **A0 size** with a **portrait** orientation.
 
 
 #### Resources
