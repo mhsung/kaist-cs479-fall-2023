@@ -117,7 +117,7 @@ Please use the **same section names** below to facilitate the review process. Ad
     - First, briefly but clearly state **which parts you implemented** in the framework. If you used some existing codes, describe in detail **how you also adopted the existing codes**. Add **references** for the existing codes. ==Hiding the use of existing codes will be considered plagiarism==.
     - **Data generation/preprocessing** and **evaluations** are also parts of the implementation. If you implemented these yourself, illustrate the details.
     - Consider as you explain the implementation details to help readers reproduce the results (like providing a **recipe in cooking**). Make the exposition **easy to follow**, but also **clear** and **specific** as much as possible.
-    - ==**Do not explain your code** but the algorithm, and pseudocode if needed.== **Do not explain your code** but the algorithm, and pseudocode if needed. The readers should be able to understand what you implemented without any code-level description.
+    - ==**Do not explain your code** but the algorithm, and pseudocode if needed.== The readers should be able to understand what you implemented without any code-level description.
     - Use **visual aids** in your exposition. More would be better. But ==DO NOT COPY figures in the original paper.== Formulations are fine (but ==do not copy and paste an image but write them yourself==).
 
 - **Experimental Results**
