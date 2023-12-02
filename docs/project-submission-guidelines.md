@@ -42,7 +42,7 @@ If plagiarism or other academic misconduct is discovered in your submission (in 
 [Overleaf template (CVPR 2022 format)](https://www.overleaf.com/latex/templates/cvpr-2022-author-kit/qbmjsdxryffn){:target="_blank"}
 - Add the **project type** (Novel Problem Solving / Performance Improvement) in the **second line** of the report title. Using LaTex, you can add like this: `\title{Project Title \\ {Novel Problem Solving / Performance Improvement} Track}`.
 - The review will be **single-blind**. Add all the **author names** in the report (use `\usepackage[pagenumbers]{cvpr}` in the CVPR template).
-- Must be up to **four**-page long, including figures, tables, and acknowledgments, but not references. Additional pages including **only references** are allowed.
+- Must be up to **four**-page long, including figures, and tables, but not acknowledgments and references. Additional pages including **only acknowledgments and references** are allowed.
 
 #### Structure
 Please use the **same section names** below to facilitate the review process. Additional sections/subsections are allowed. ==The highlighted parts are mandatory.== Missing or violating the highlighted parts may lead to a penalty. **The other instructions are just recommended guidelines**; you do not need to exactly follow them.
