@@ -170,6 +170,6 @@ Please use the **same section names** below to facilitate the review process. Ad
 
 - **Late submission**: ==Zero score==.
 - **Missing any of report/poster/code**: ==Zero score==.
-- **Missing components in the report**: ==10% penalty for each==.
+- **Missing components or violations of policies in the report**: ==10% penalty for each==.
 
 <br />
