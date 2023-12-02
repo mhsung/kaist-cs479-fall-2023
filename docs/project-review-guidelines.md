@@ -9,7 +9,7 @@
 
 <!-- (Last updated: May 29, 2022. Subject to change.) -->
 
-^^Review Due^^: ==December 8 (Fri), 23:59 KST==  
+^^Review Due^^: ==December 9 (Sat), 23:59 KST==  
 ^^Rebuttal Due^^: ==December 13 (Wed), 23:59 KST==  
 ^^Where to submit^^: ==OpenReview==   
 [https://openreview.net/group?id=kaist.ac.kr/KAIST/Fall2023/CS479](https://openreview.net/group?id=kaist.ac.kr/KAIST/Fall2023/CS479){:target="_blank"}
