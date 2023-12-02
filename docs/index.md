@@ -77,7 +77,7 @@ ALL ASSIGNMENTS ARE DUE 23:59 KST.
 - Paper Review Answers: ==Due Nov 26 (Sun)==
 - Project Poster: ==Due Nov 29 (Wed)==
 - Project Report/Code: ==Due Dec 3 (Sun)==
-- Project Review: ==Due Dec 8 (Fri)==
+- Project Review: ==Due Dec 9 (Sat)==
 - Project Rebuttal: ==Due Dec 13 (Wed)==
 
 
