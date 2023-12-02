@@ -23,29 +23,7 @@
 - ==You can participate in the reviews after you receive the perfect score from the **paper review quiz**.== Any reviews submitted before attaining this perfect score will NOT be accepted and will be considered as not submitted. Refer to the [paper review](../paper-review){:target="_blank"} page for the details.
 
 
-### Infeasible Experiments
-
-In the report, you can argue the **infeasibility** of experiments that are expected to be shown in the results.
-For example,
-
-- Some experiments in the original work (Performance Improvement Track) may not be reproducible if the experiments require more than two GPUs *(note that only two GPUs are provided to each team)* or some important details about the experiments are missing.
-- An exact comparison with the original work (Performance Improvement Track) or previous work (Novel Problem Solving Track) may not be possible when the data used in the experiment is not released.
-
-For such infeasible experiments, the authors must consider **substituting** them with similar but feasible experiments (or, also argue why it is even not possible to substitute them).
-For example,
-
-- If an experiment is computationally infeasible, try to simplify the experiment (use a smaller dataset, use a simplified neural network, reduce the batch size, etc).
-- If data for replication is not provided, consider using the other similar data.
-- If some experiment details for replication are not provided, use any common parameters or approaches.
-
-As a **reviewer**, you need to judge whether the argument about infeasibility is valid or not and whether the authors tried to substitute the infeasible experiments.
-
-For the experiments considered infeasible, do not take them into account in the evaluation.
-
-
 ### Review Questions
-
-#### ^^This is a tentative plan and is subject to change.^^
 
 ==Total score range: [-8 ~ +8]==
 
@@ -142,7 +120,7 @@ Provide questions or comments. Please be constructive, respectful, and detailed 
 - After the review deadline, the authors will have an opportunity to rebut the review comments in OpenReview.
 - ==All the reviewers are responsible to read the rebuttal and check how the authors addressed the reviewers' comments.==
 - Reviewers can adjust the review comments and scores after the rebuttal.
-- The review scores will NOT be averaged. There will be a discussion among the reviewers on Discord, and the final score will be decided in the discussion.
+- The review scores will NOT be averaged. There will be a discussion among the reviewers on Slack, and the final score will be decided in the discussion.
 
 
 ### Penalty

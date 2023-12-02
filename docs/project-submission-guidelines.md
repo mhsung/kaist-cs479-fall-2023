@@ -33,6 +33,26 @@ If plagiarism or other academic misconduct is discovered in your submission (in 
 **DO NOT COPY the texts or figures in the baseline paper (except for figures and tables in the *result* section) — it will be considered plagiarism.** Write the report in your own words. **It is allowed to use qualitative result figures and the numbers in the quantitative result tables in the original paper only for comparisons, but ==CLEARLY MENTION that the figures and numbers are from the original paper.==**
 
 
+### Infeasible Experiments
+
+In the report, you can argue the **infeasibility** of experiments that are expected to be shown in the results.
+For example,
+
+- Some experiments in the original work (Performance Improvement Track) may not be reproducible if the experiments require more than two GPUs *(note that only two GPUs are provided to each team)* or some important details about the experiments are missing.
+- An exact comparison with the original work (Performance Improvement Track) or previous work (Novel Problem Solving Track) may not be possible when the data used in the experiment is not released.
+
+For such infeasible experiments, the authors must consider **substituting** them with similar but feasible experiments (or, also argue why it is even not possible to substitute them).
+For example,
+
+- If an experiment is computationally infeasible, try to simplify the experiment (use a smaller dataset, use a simplified neural network, reduce the batch size, etc).
+- If data for replication is not provided, consider using the other similar data.
+- If some experiment details for replication are not provided, use any common parameters or approaches.
+
+As a **reviewer**, you need to judge whether the argument about infeasibility is valid or not and whether the authors tried to substitute the infeasible experiments.
+
+For the experiments considered infeasible, do not take them into account in the evaluation.
+
+
 ### Report Guidelines
 
 #### Format
