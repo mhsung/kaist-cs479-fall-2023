@@ -25,7 +25,7 @@ Submit a project proposal for each **team**. Submit the proposal with the follow
     - Code GitHub repository link
 - Problem definition of the baseline method (Refer to the [problem definition](#problem-definition) section below)
 
-If your team is on the **novel problem-solving** track:
+If your team is on the **novel problem solving** track:
 
 - New problem definition (Refer to the [problem definition](#problem-definition) section below)
 - The difference between the problem definition of the baseline method and the new problem definition
