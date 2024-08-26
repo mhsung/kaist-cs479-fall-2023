@@ -18,11 +18,11 @@ hide:
 ^^Where to submit^^: Gradescope
 
 ### Assignment Links
-- Assignment1 (PointNet): [https://github.com/KAIST-Geometric-AI-Group/CS479-Assignment_1](https://github.com/KAIST-Geometric-AI-Group/CS479-Assignment_1){:target="_blank"}
-- Assignment2 (NeRF): [https://github.com/KAIST-Geometric-AI-Group/CS479-Assignment_2](https://github.com/KAIST-Geometric-AI-Group/CS479-Assignment_2){:target="_blank"}
-- Assignment3 (Diffusion Models): [https://github.com/KAIST-Geometric-AI-Group/CS479-Assignment_3](https://github.com/KAIST-Geometric-AI-Group/CS479-Assignment_3){:target="_blank"}
-- Assignment4 (NeRFStudio): [https://github.com/KAIST-Geometric-AI-Group/CS479-Assignment_4](https://github.com/KAIST-Geometric-AI-Group/CS479-Assignment_4){:target="_blank"}
-- Assignment5 (Stable Diffusion): [https://github.com/KAIST-Geometric-AI-Group/CS479-Assignment_5](https://github.com/KAIST-Geometric-AI-Group/CS479-Assignment_5){:target="_blank"}
+- Assignment1 (PointNet): [https://github.com/KAIST-Visual-AI-Group/CS479-Assignment_1](https://github.com/KAIST-Visual-AI-Group/CS479-Assignment_1){:target="_blank"}
+- Assignment2 (NeRF): [https://github.com/KAIST-Visual-AI-Group/CS479-Assignment_2](https://github.com/KAIST-Visual-AI-Group/CS479-Assignment_2){:target="_blank"}
+- Assignment3 (Diffusion Models): [https://github.com/KAIST-Visual-AI-Group/CS479-Assignment_3](https://github.com/KAIST-Visual-AI-Group/CS479-Assignment_3){:target="_blank"}
+- Assignment4 (NeRFStudio): [https://github.com/KAIST-Visual-AI-Group/CS479-Assignment_4](https://github.com/KAIST-Visual-AI-Group/CS479-Assignment_4){:target="_blank"}
+- Assignment5 (Stable Diffusion): [https://github.com/KAIST-Visual-AI-Group/CS479-Assignment_5](https://github.com/KAIST-Visual-AI-Group/CS479-Assignment_5){:target="_blank"}
 
 ==The last two assignments are optional.== You are not required to submit your solutions for them. We kindly provide additional programming assignments to support you in gaining hands-on experience with well-established libraries.
 
