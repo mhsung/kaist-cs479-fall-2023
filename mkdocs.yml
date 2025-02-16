@@ -30,7 +30,6 @@ copyright: Copyright &copy; 2023 Minhyuk Sung
 
 nav:
   - Home: index.md
-  - Programming Assignments: programming-assignments.md
   - Paper Review: paper-review.md
   - Project:
     - Project Team Matching: project-team-matching.md
